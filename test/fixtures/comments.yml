@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  link_id: 1
+  body: MyText
+  user: one
+  —skip_stylesheets: MyString
+
+two:
+  link_id: 1
+  body: MyText
+  user: two
+  —skip_stylesheets: MyString
